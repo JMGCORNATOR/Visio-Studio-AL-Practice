@@ -25,4 +25,4 @@ pageextension Id MyExtension extends MyTargetPage
         myInt: Integer;
 }
 
-acbde
+Message('new line added')
